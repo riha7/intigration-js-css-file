@@ -1,0 +1,12 @@
+.row{
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+input{
+    padding: 13px;
+    border-radius: 10px;
+}
